@@ -1,4 +1,4 @@
-# my LeetCode profile link
+# My LeetCode profile link
 https://leetcode.com/saurav0604singh/
 
 # LeetCode Solutions
@@ -11,13 +11,7 @@ The repository is organized into folders based on the problem categories availab
 
 ## Languages
 
-The solutions are implemented in multiple programming languages, including:
-
-- Python
-- Java
-- C++
-- JavaScript
-- Ruby
+The solutions are implemented in Python programming languages.
 
 Feel free to explore the language folders and find the solutions in your preferred programming language.
 
